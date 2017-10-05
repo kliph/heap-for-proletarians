@@ -1,0 +1,4 @@
+* A heap for proletarians
+
+Following along with Vijay Mathew Pandyalakal's blog post here
+[[https://lispchronicles.wordpress.com/2017/06/22/a-heap-for-proletarians/]]
